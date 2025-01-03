@@ -20,7 +20,7 @@
   "dependencies": {
     "@remix-run/express": "workspace:*",
     "@remix-run/node": "workspace:*",
-    "chokidar": "^3.5.3",
+    "chokidar": "^4.0.1",
     "compression": "^1.7.4",
     "express": "^4.19.2",
     "get-port": "5.1.1",
